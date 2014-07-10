@@ -1,7 +1,5 @@
 // ==UserScript==
 // @name        Přesčasy
-// @namespace   QCM.vykazy
-// @include     http://vykazy.brno.qcm.cz/index.php?m=report&a=getVP&month=2014-07&user=181
 // @version     1
 // @grant       none
 // ==/UserScript==
